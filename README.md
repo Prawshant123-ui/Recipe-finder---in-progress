@@ -27,7 +27,7 @@ A React application for finding and viewing recipes with static routing implemen
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Prawshant123-ui/Recipe-finder---in-progress.git
 
 # Navigate to the project directory
 cd recipie-finder
